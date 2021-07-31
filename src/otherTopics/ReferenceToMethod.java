@@ -9,8 +9,8 @@ public class ReferenceToMethod {
 
         ExampleClass exampleClass = new ExampleClass();
 
-        Interfejs interfejs = ExampleClass::new;
-        interfejs.runMethod();
+        ExampleInterface exampleInterface = ExampleClass::new;
+        exampleInterface.runMethod();
     }
 }
 
@@ -20,6 +20,6 @@ class ExampleClass {
     }
 }
 
-interface Interfejs {
+interface ExampleInterface {
     ExampleClass runMethod();
 }

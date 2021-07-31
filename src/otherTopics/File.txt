@@ -1,0 +1,2 @@
+To jest przykładowe zapisywanie danych do pliku.
+To jest nowy tekst.

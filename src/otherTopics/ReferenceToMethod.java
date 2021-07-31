@@ -15,7 +15,7 @@ public class ReferenceToMethod {
 }
 
 class ExampleClass {
-    public void metoda() {
+    public void method() {
         System.out.println("To jest przykladowa metoda...");
     }
 }

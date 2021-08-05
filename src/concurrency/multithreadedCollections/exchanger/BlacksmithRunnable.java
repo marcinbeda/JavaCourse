@@ -1,0 +1,34 @@
+package concurrency.multithreadedCollections.exchanger;
+
+import java.util.concurrent.Exchanger;
+
+/**
+ * Created by Marcin Beda.
+ */
+
+public class BlacksmithRunnable implements Runnable {
+
+    private Exchanger<Item> exchanger;
+    private Item armor;
+
+    public BlacksmithRunnable(Exchanger<Item> exchanger, Item armor) {
+        this.exchanger = exchanger;
+        this.armor = armor;
+    }
+
+    @Override
+    public void run() {
+        while (true) {
+            try {
+                System.out.println("Blacksmith has: " + armor);
+                Item exchangedItem = exchanger.exchange(armor);
+                System.out.println("Blacksmith received given item: " + exchangedItem);
+                exchangedItem.setModifier(exchangedItem.getModifier() + 2);
+                armor = exchangedItem;
+                Thread.sleep(4000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}

@@ -6,6 +6,8 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
+          <factory-entry name="ExampleNameDev" />
+          <factory-entry name="ExampleNameProd" />
           <factory-entry name="JavaCourse" />
         </datasource-mapping>
         <naming-strategy-map />

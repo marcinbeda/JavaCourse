@@ -4,9 +4,6 @@ import java.util.concurrent.Exchanger;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ExchangerMain {
 

@@ -5,9 +5,6 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class PersonalDataService {
 

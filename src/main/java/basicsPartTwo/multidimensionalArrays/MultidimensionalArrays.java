@@ -1,8 +1,5 @@
 package basicsPartTwo.multidimensionalArrays;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class MultidimensionalArrays {
 

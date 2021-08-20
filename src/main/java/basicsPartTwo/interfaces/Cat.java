@@ -1,8 +1,5 @@
 package basicsPartTwo.interfaces;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Cat extends Animal implements Eat {
     @Override

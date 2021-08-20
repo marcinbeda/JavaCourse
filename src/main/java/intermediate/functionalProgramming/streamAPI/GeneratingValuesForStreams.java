@@ -6,9 +6,6 @@ import java.util.function.Consumer;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class GeneratingValuesForStreams {
 

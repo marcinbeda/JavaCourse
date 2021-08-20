@@ -1,15 +1,13 @@
 package basicsPartOne.primitiveDataTypesAndVariables;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class LogicalAndCharacterTypes {
 
-    /*
-    Strona z listą wszystkich znaków Unicode:
-    http://unicode-table.com/en/#control-character
+    /**
+     * Strona z listą wszystkich znaków Unicode:
+     * http://unicode-table.com/en/#control-character
      */
+
 
     char c1 = 0, c2 = 65535; // rozmiar 16 bitów (2 bajty)
 

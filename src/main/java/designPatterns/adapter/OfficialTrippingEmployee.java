@@ -2,9 +2,6 @@ package designPatterns.adapter;
 
 import designPatterns.functionalPatterns.strategy.Employee;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class OfficialTrippingEmployee {
 

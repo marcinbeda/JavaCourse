@@ -2,9 +2,6 @@ package concurrency.multithreadedCollections.priorityBlockingQueue;
 
 import java.util.concurrent.BlockingQueue;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class HospitalRunnable implements Runnable {
 

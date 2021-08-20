@@ -1,8 +1,5 @@
 package concurrency.multithreadedCollections.blockingQueue;
 
-/**
- * Created by Marcin Beda.
- */
 
 import java.util.concurrent.BlockingQueue;
 

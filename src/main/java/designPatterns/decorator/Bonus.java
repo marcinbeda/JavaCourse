@@ -1,10 +1,7 @@
 package designPatterns.decorator;
 
-/**
- * Created by Marcin Beda.
- */
 
-public abstract class Bonus implements Payable{
+public abstract class Bonus implements Payable {
 
     private Payable payable;
 

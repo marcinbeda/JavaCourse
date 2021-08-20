@@ -2,9 +2,6 @@ package basicsPartOne.exceptions;
 
 import java.io.IOException;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ThrowAndThrows {
     public static void main(String[] args) {

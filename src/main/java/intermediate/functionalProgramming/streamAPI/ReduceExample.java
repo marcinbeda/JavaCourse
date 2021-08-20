@@ -5,9 +5,6 @@ import intermediate.functionalProgramming.student.Student;
 import java.util.Optional;
 import java.util.stream.Stream;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ReduceExample {
 

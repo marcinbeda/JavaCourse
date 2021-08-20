@@ -1,8 +1,5 @@
 package basicsPartTwo.methodsVariables;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class MethodsVariables {
 

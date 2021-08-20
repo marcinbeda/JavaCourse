@@ -4,9 +4,6 @@ import designPatterns.functionalPatterns.strategy.Employee;
 
 import java.util.ArrayList;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class EmployeeDatabase {
     private ArrayList<Employee> employeeList = new ArrayList<>();
@@ -23,7 +20,6 @@ public class EmployeeDatabase {
     public void addEmployee(Employee employee) {
         this.employeeList.add(employee);
     }
-
 
 
 }

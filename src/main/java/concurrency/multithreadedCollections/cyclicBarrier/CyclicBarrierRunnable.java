@@ -3,9 +3,6 @@ package concurrency.multithreadedCollections.cyclicBarrier;
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class CyclicBarrierRunnable implements Runnable {
 

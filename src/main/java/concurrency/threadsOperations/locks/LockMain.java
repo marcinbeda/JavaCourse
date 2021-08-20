@@ -1,8 +1,5 @@
 package concurrency.threadsOperations.locks;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class LockMain {
 

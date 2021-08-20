@@ -1,8 +1,5 @@
 package basicsPartTwo.inheritanceConstructors;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class inheritanceConstructors {
 

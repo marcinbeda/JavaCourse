@@ -1,8 +1,5 @@
 package basicsPartOne.classAndMethods;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Recursion {
     public static void main(String[] args) {

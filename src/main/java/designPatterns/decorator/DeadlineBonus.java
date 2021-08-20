@@ -1,8 +1,5 @@
 package designPatterns.decorator;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class DeadlineBonus extends Bonus {
 
@@ -12,6 +9,6 @@ public class DeadlineBonus extends Bonus {
 
     @Override
     protected int getPaidBonus(int salary) {
-        return (int)(salary*0.1f);
+        return (int) (salary * 0.1f);
     }
 }

@@ -7,9 +7,6 @@ import java.util.Optional;
 import java.util.function.Predicate;
 import java.util.stream.Stream;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ForEachMapFilterExample {
 

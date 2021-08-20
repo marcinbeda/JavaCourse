@@ -1,8 +1,5 @@
 package basicsPartOne.exceptions;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class tryCatchStatment {
     public static void main(String[] args) {

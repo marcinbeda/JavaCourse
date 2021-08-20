@@ -1,8 +1,5 @@
 package basicsPartOne.parameterizedTypes;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class FourthApplication {
     public static void main(String[] args) {
@@ -37,5 +34,6 @@ class Order<I, W> implements Informations<I, W> {
 
 interface Informations<I, W> {
     I getID();
+
     W getValue();
 }

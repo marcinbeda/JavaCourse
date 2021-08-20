@@ -2,9 +2,6 @@ package unitTest.electricity;
 
 import java.util.Calendar;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ElectricityMeter {
 

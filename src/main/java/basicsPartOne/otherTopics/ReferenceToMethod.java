@@ -1,8 +1,5 @@
 package basicsPartOne.otherTopics;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ReferenceToMethod {
     public static void main(String[] args) {

@@ -1,8 +1,5 @@
 package basicsPartOne.classAndMethods;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Rectangle {
 

@@ -2,9 +2,6 @@ package designPatterns.functionalPatterns.observers;
 
 import java.util.Observable;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ObservableTempValue extends Observable {
 

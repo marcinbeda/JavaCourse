@@ -1,8 +1,5 @@
 package concurrency.optimizingLatency;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class CalculatedPersonalDataDto {
 

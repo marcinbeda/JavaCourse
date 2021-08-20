@@ -3,9 +3,6 @@ package concurrency.multithreadedCollections.delayedQueue;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.DelayQueue;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class DelayedQueueMain {
 

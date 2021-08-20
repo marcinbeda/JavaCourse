@@ -1,8 +1,5 @@
 package concurrency.multithreadedCollections.exchanger;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Item {
 

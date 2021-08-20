@@ -6,9 +6,6 @@ import intermediate.dataPersistence.jpa.education.University;
 import javax.persistence.*;
 import java.util.List;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class JPAApp {
 
@@ -110,7 +107,7 @@ public class JPAApp {
         University university = entityManager.find(University.class, umk.getId());
 
         System.out.println(university);
-*/
+ */
 
         // Example for FETCH LAZY
         entityManager.getTransaction().begin();

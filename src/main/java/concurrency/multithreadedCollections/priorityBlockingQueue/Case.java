@@ -1,8 +1,5 @@
 package concurrency.multithreadedCollections.priorityBlockingQueue;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Case implements Comparable {
 

@@ -1,8 +1,5 @@
 package concurrency.diningPhilosophers;
 
-/**
- * Created by Marcin Beda.
- */
 
 import java.util.Random;
 

@@ -11,9 +11,6 @@ import designPatterns.creationPatterns.Logger;
 import designPatterns.functionalPatterns.observers.ObservableTempValue;
 import designPatterns.functionalPatterns.strategy.*;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class DesignPatternsMain {
 
@@ -48,10 +45,10 @@ public class DesignPatternsMain {
         System.out.println("Zarobki " + new FreqBonus(new DeadlineBonus(new SpecialBonus(mike))).getSalary());
 
         Payable employee = mike;
-        if(employee.getSalary() > 8000) {
+        if (employee.getSalary() > 8000) {
             employee = new SpecialBonus(employee);
         }
-        if(mike.travelStrategy instanceof BikeTravelStrategy){
+        if (mike.travelStrategy instanceof BikeTravelStrategy) {
             employee = new FreqBonus(employee);
         }
 //        System.out.println("Zarobki " + employee.getSalary());
@@ -60,7 +57,7 @@ public class DesignPatternsMain {
         System.out.println("Zarobki " + mike.getSalary());
     }
 
-    private static void adapterPattern(){
+    private static void adapterPattern() {
         Employee mike = new Employee();
 
         mike.travelStrategy = new BikeTravelStrategy();
@@ -75,7 +72,7 @@ public class DesignPatternsMain {
         otMike.goToClient();
     }
 
-    private static void strategyPattern(){
+    private static void strategyPattern() {
         Employee mike = new Employee();
 
         mike.travelStrategy = new BikeTravelStrategy();
@@ -99,7 +96,7 @@ public class DesignPatternsMain {
         // Test for observers
         while (true) {
             Thread.sleep(500);
-            observableValue.setValue((int) (observableValue.getOldTemp()+Math.random()*3-1));
+            observableValue.setValue((int) (observableValue.getOldTemp() + Math.random() * 3 - 1));
         }
     }
 

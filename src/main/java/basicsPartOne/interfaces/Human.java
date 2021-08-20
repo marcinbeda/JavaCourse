@@ -1,8 +1,5 @@
 package basicsPartOne.interfaces;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Human implements Informations, CognitiveProcess {
 

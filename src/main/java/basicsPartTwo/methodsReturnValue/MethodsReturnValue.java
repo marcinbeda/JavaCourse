@@ -1,8 +1,5 @@
 package basicsPartTwo.methodsReturnValue;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class MethodsReturnValue {
 

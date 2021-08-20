@@ -1,8 +1,5 @@
 package basicsPartOne.parameterizedTypes;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class SecondApplication {
     public static void main(String[] args) {

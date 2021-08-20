@@ -1,8 +1,5 @@
 package basicsPartOne.parameterizedTypes;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ThirdApplication {
     public static void main(String[] args) {
@@ -15,7 +12,7 @@ public class ThirdApplication {
     }
 
     public static <T> void showArrayElements(T[] array) {
-        for (T element: array) {
+        for (T element : array) {
             System.out.print(element);
         }
         System.out.println();

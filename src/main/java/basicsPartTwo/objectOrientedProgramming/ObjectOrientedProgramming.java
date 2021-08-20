@@ -1,8 +1,5 @@
 package basicsPartTwo.objectOrientedProgramming;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ObjectOrientedProgramming {
 

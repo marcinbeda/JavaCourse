@@ -1,14 +1,11 @@
 package basicsPartOne.arrays;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class MultidimensionalArrays {
 
     public static void main(String[] args) {
 
-        int[][] mother2D = new int[][] {
+        int[][] mother2D = new int[][]{
                 {1, 2, 3, 4},
                 {5, 6, 7, 8}
         };
@@ -17,7 +14,7 @@ public class MultidimensionalArrays {
 
 //        System.out.println(x);
 
-        int[][][] mother3D = new int[][][] {
+        int[][][] mother3D = new int[][][]{
                 {{1, 2}, {3, 4}},
                 {{5, 6}, {7, 8}}
         };

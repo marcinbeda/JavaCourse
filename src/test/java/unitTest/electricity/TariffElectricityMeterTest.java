@@ -5,9 +5,6 @@ import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class TariffElectricityMeterTest {
 
@@ -16,7 +13,7 @@ public class TariffElectricityMeterTest {
     TariffProvider tp;
 
     @Before
-    public void setUp(){
+    public void setUp() {
         tp = Mockito.mock(TariffProvider.class);
         electricityMeter = new ElectricityMeter(tp);
         electricityMeter.setTariffOn(true);
@@ -25,7 +22,7 @@ public class TariffElectricityMeterTest {
     }
 
     @Test
-    public void GivenOnTariffWhenKwhAdditionThenCounterTariffIsIncreased(){
+    public void GivenOnTariffWhenKwhAdditionThenCounterTariffIsIncreased() {
         //Given
         Mockito.when(tp.isTariffNow()).thenReturn(true);
         //When
@@ -35,7 +32,7 @@ public class TariffElectricityMeterTest {
     }
 
     @Test
-    public void GivenNotOnTariffWhenKwhAdditionThenCounterIsIncreased(){
+    public void GivenNotOnTariffWhenKwhAdditionThenCounterIsIncreased() {
         //Given
         Mockito.when(tp.isTariffNow()).thenReturn(false);
         //When

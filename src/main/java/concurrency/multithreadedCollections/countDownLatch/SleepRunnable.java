@@ -2,9 +2,6 @@ package concurrency.multithreadedCollections.countDownLatch;
 
 import java.util.concurrent.CountDownLatch;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class SleepRunnable implements Runnable {
 

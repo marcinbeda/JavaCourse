@@ -1,8 +1,5 @@
 package basicsPartTwo.encapsulation;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Person {
     private String name;
@@ -12,7 +9,7 @@ public class Person {
     }
 
     public void setName(String name) {
-        if(name.length() >= 3) {
+        if (name.length() >= 3) {
             name = name.substring(0, 1).toUpperCase() + name.substring(1).toLowerCase();
             this.name = name;
         }
@@ -25,7 +22,7 @@ public class Person {
     }
 
     public void setAge(int age) {
-        if(age >= 0) {
+        if (age >= 0) {
             this.age = age;
         }
     }

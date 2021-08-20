@@ -7,9 +7,6 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class JDBCExample {
 
@@ -47,7 +44,7 @@ public class JDBCExample {
 
         Statement statement = connection.createStatement();
 
-        String insert = "INSERT INTO STUDENT VALUES("+student.getId()+",\'"+student.getName()+"\')";
+        String insert = "INSERT INTO STUDENT VALUES(" + student.getId() + ",\'" + student.getName() + "\')";
 
         statement.execute(insert);
 
@@ -69,7 +66,7 @@ public class JDBCExample {
             int id = resultSet.getInt("id");
             String name = resultSet.getString("name");
 
-            students.add(new Student(id,name));
+            students.add(new Student(id, name));
         }
         return students;
     }

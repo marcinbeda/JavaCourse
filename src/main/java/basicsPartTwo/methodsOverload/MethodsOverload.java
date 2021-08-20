@@ -1,8 +1,5 @@
 package basicsPartTwo.methodsOverload;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class MethodsOverload {
 
@@ -13,7 +10,7 @@ public class MethodsOverload {
     }
 
     public static int add(float a) {
-        return (int)--a;
+        return (int) --a;
     }
 
     public static int add(int a) {

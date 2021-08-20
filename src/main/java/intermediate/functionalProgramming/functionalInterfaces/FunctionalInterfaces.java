@@ -6,9 +6,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.function.*;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class FunctionalInterfaces {
 

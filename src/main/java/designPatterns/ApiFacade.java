@@ -10,9 +10,6 @@ import designPatterns.functionalPatterns.strategy.BikeTravelStrategy;
 import designPatterns.functionalPatterns.strategy.CarTravelStrategy;
 import designPatterns.functionalPatterns.strategy.Employee;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ApiFacade {
 
@@ -37,7 +34,7 @@ public class ApiFacade {
 
     public int countSalary(Employee mike) {
         Payable employee = mike;
-        if (mike.getSalary()>8000){
+        if (mike.getSalary() > 8000) {
             employee = new SpecialBonus(employee);
         }
         if (mike.travelStrategy instanceof BikeTravelStrategy) {

@@ -2,9 +2,6 @@ package intermediate.functionalProgramming.student;
 
 import java.util.Objects;
 
-/**
- * Created by Marcin Beda.
- */
 
 final public class Index {
 

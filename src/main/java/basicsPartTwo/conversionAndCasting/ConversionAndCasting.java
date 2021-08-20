@@ -1,23 +1,20 @@
 package basicsPartTwo.conversionAndCasting;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ConversionAndCasting {
 
     public static void main(String[] args) {
-	    /* Rzutowanie niejawne */
+        /* Rzutowanie niejawne */
         short zmShort = 125;
         int zmInt;
-        zmInt = (int)zmShort;
+        zmInt = (int) zmShort;
         System.out.println(zmInt);
 
         /* Rzutowanie jawne */
         float zmFloat = 3.0F;
         long zmLong;
-        zmLong = (long)zmFloat;
-        short zmShort2 = (short)zmLong;
+        zmLong = (long) zmFloat;
+        short zmShort2 = (short) zmLong;
         System.out.println(zmLong);
 
         /* Liczbowe > String */

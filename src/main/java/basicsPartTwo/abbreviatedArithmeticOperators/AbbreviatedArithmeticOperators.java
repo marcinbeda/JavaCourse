@@ -1,8 +1,5 @@
 package basicsPartTwo.abbreviatedArithmeticOperators;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class AbbreviatedArithmeticOperators {
 

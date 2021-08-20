@@ -1,8 +1,5 @@
 package basicsPartTwo.accessModifiers.company;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class A {
     public int varPublic;

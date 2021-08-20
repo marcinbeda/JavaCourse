@@ -1,8 +1,5 @@
 package concurrency.threadsOperations.waitAndNotify;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class WaitAndNotifyMain {
 

@@ -2,9 +2,6 @@ package intermediate.multithreading.completableFuture;
 
 import java.util.concurrent.*;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class CompletableFutureExample {
 

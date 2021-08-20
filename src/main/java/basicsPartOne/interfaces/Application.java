@@ -1,8 +1,5 @@
 package basicsPartOne.interfaces;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Application {
     public static void main(String[] args) {
@@ -13,18 +10,18 @@ public class Application {
         Human human = new Human("Marcin");
         human.oddychaj();
 
-        Informations[] informations = new Informations[] {robot, human};
+        Informations[] informations = new Informations[]{robot, human};
 
-        for (Informations i: informations) {
+        for (Informations i : informations) {
             i.showInformations();
         }
 
         Informations infoRobot = new Robot(999);
         infoRobot.showInformations();
 
-        CognitiveProcess[] cognitiveProcess = new CognitiveProcess[] {robot, human};
+        CognitiveProcess[] cognitiveProcess = new CognitiveProcess[]{robot, human};
 
-        for (CognitiveProcess i: cognitiveProcess) {
+        for (CognitiveProcess i : cognitiveProcess) {
             i.think();
         }
     }

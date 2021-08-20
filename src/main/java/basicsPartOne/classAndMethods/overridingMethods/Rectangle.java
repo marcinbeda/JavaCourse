@@ -1,8 +1,5 @@
 package basicsPartOne.classAndMethods.overridingMethods;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Rectangle extends Figure {
 

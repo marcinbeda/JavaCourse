@@ -10,9 +10,6 @@ import org.mockito.Mockito;
 import java.util.Arrays;
 import java.util.Collection;
 
-/**
- * Created by Marcin Beda.
- */
 
 @RunWith(Parameterized.class)
 public class EdgeTariffElectricityMeterTest {

@@ -2,9 +2,6 @@ package concurrency.optimizingLatency;
 
 import java.io.File;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class PathManager {
 

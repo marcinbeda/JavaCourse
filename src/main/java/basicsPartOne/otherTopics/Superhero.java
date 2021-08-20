@@ -1,8 +1,5 @@
 package basicsPartOne.otherTopics;
 
-/**
- * Created by Marcin Beda.
- */
 
 public enum Superhero {
     BATMAN(10), SUPERMAN(5), WONDER_WOMAN(1);

@@ -1,8 +1,5 @@
 package intermediate.multithreading.basics;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class CreatingThreads {
 

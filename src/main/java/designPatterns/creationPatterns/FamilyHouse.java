@@ -1,8 +1,5 @@
 package designPatterns.creationPatterns;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class FamilyHouse {
 

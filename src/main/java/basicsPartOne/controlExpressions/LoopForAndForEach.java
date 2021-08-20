@@ -1,8 +1,5 @@
 package basicsPartOne.controlExpressions;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class LoopForAndForEach {
     public static void main(String[] args) {
@@ -19,10 +16,10 @@ public class LoopForAndForEach {
             System.out.println("i = " + i + ", j = " + j);
         }
 
-        int[][] numbers = new int[][] {{1, 2, 3, 4, 5}, {6, 7, 8, 9, 10}};
+        int[][] numbers = new int[][]{{1, 2, 3, 4, 5}, {6, 7, 8, 9, 10}};
 
-        for (int[] x: numbers) {
-            for (int y: x) {
+        for (int[] x : numbers) {
+            for (int y : x) {
                 System.out.println("Pojedyncze elementy = " + y);
             }
         }

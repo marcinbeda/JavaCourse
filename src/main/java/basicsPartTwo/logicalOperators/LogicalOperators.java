@@ -1,8 +1,5 @@
 package basicsPartTwo.logicalOperators;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class LogicalOperators {
 

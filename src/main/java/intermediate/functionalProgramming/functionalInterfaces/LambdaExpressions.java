@@ -1,8 +1,5 @@
 package intermediate.functionalProgramming.functionalInterfaces;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class LambdaExpressions {
 

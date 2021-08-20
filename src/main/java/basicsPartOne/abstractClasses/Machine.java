@@ -1,8 +1,5 @@
 package basicsPartOne.abstractClasses;
 
-/**
- * Created by Marcin Beda.
- */
 
 public abstract class Machine {
 

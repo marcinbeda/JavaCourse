@@ -1,8 +1,5 @@
 package basicsPartOne.basicsJava;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Comments {
 
@@ -11,6 +8,7 @@ public class Comments {
 
     /**
      * To jest konstruktor klasy Komentarze.
+     *
      * @param x
      * @param y
      */
@@ -21,13 +19,14 @@ public class Comments {
 
     /**
      * Metoda main.
+     *
      * @param args
      */
     public static void main(String[] args) {
 
         // To jest komentarz jednowierszowy.
 
-    	/* To jest komentarz wielowierszowy w jednym wierzu. */
+        /* To jest komentarz wielowierszowy w jednym wierzu. */
 
     	/*
     	To jest komentarz wielowierszowy
@@ -42,6 +41,7 @@ public class Comments {
 
     /**
      * To jest metoda mnozaca przez siebie dwie wartosci.
+     *
      * @param x Parametr nr 1.
      * @param y Parametr nr 2.
      * @return Iloczyn x i y.

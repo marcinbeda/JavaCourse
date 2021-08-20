@@ -1,8 +1,5 @@
 package unitTest;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ElectricityMain {
 

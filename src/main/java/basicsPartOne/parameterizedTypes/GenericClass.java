@@ -1,8 +1,5 @@
 package basicsPartOne.parameterizedTypes;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class GenericClass<T, V> {
 

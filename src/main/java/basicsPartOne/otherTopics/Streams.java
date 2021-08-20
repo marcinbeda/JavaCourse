@@ -3,9 +3,6 @@ package basicsPartOne.otherTopics;
 import java.util.ArrayList;
 import java.util.Random;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Streams {
     public static void main(String[] args) {
@@ -21,7 +18,7 @@ public class Streams {
         long start = System.currentTimeMillis();
 
         int result = 0;
-        for (int i: arrayList) {
+        for (int i : arrayList) {
             result += isPrime(i);
         }
 

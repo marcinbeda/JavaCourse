@@ -1,8 +1,5 @@
 package basicsPartOne.operators;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ComparisonOperators {
 

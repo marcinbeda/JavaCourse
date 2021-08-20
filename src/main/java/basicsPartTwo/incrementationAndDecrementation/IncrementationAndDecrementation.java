@@ -1,8 +1,5 @@
 package basicsPartTwo.incrementationAndDecrementation;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class IncrementationAndDecrementation {
 

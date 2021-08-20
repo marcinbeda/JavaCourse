@@ -5,9 +5,6 @@ import java.util.List;
 import java.util.Random;
 import java.util.concurrent.BlockingQueue;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class CustomerRunnable implements Runnable {
 

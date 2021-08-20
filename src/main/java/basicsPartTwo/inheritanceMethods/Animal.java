@@ -1,8 +1,5 @@
 package basicsPartTwo.inheritanceMethods;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Animal {
     public Animal(String name) {

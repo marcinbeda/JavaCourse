@@ -1,8 +1,5 @@
 package basicsPartOne.controlExpressions;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class LoopWhileAndDoWhile {
     public static void main(String[] args) {

@@ -1,8 +1,5 @@
 package basicsPartOne.otherTopics;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Enums {
 

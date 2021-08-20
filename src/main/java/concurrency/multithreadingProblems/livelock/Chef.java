@@ -1,9 +1,5 @@
 package concurrency.multithreadingProblems.livelock;
 
-/**
- * Created by Marcin Beda.
- */
-
 
 public class Chef {
 

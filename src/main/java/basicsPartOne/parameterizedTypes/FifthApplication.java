@@ -2,9 +2,6 @@ package basicsPartOne.parameterizedTypes;
 
 import java.util.ArrayList;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class FifthApplication {
     public static void main(String[] args) {

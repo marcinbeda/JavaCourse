@@ -1,8 +1,5 @@
 package basicsPartTwo.ternaryOperator;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class TernaryOperator {
 

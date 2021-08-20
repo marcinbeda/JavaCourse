@@ -1,8 +1,5 @@
 package concurrency.threadsOperations.basicsOperationsAndCreationThreads;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class LoopedComputationRunnable implements Runnable {
 

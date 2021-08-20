@@ -1,8 +1,5 @@
 package basicsPartOne.primitiveDataTypesAndVariables;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class VariablesAndTheirScope {
 

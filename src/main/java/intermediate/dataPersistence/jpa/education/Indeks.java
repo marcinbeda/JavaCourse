@@ -2,9 +2,6 @@ package intermediate.dataPersistence.jpa.education;
 
 import javax.persistence.*;
 
-/**
- * Created by Marcin Beda.
- */
 
 @Entity
 public class Indeks {

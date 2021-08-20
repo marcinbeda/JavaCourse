@@ -2,9 +2,6 @@ package intermediate.multithreading.basics;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class SleepAndJoinMethods {
     public static void main(String[] args) throws InterruptedException {

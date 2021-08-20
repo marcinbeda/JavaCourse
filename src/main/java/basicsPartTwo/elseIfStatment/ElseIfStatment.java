@@ -1,8 +1,5 @@
 package basicsPartTwo.elseIfStatment;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ElseIfStatment {
 

@@ -2,9 +2,6 @@ package designPatterns.functionalPatterns.strategy;
 
 import designPatterns.decorator.Payable;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Employee implements TravelStrategy, JobStrategy, BreakfastStrategy, Payable {
 

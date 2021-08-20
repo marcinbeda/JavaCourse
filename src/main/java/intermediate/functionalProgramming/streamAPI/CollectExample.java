@@ -9,9 +9,6 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.groupingBy;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class CollectExample {
 

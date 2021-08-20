@@ -2,9 +2,6 @@ package intermediate.dataPersistence.jpa.education;
 
 import javax.persistence.Embeddable;
 
-/**
- * Created by Marcin Beda.
- */
 
 @Embeddable
 public class Address {

@@ -1,8 +1,5 @@
 package basicsPartTwo.doWhileLoop;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class DoWhileLoop {
 

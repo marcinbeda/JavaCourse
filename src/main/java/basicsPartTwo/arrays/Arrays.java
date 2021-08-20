@@ -1,8 +1,5 @@
 package basicsPartTwo.arrays;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Arrays {
 

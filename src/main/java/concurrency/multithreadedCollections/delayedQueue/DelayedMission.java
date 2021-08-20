@@ -3,9 +3,6 @@ package concurrency.multithreadedCollections.delayedQueue;
 import java.util.concurrent.Delayed;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class DelayedMission implements Delayed {
 

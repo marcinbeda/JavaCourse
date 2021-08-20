@@ -1,8 +1,5 @@
 package concurrency.threadsOperations.volatileExample;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class SharedCounter {
 

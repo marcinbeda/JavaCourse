@@ -1,8 +1,5 @@
 package basicsPartOne.anonymousClasses;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Application {
     public static void main(String[] args) {

@@ -3,9 +3,6 @@ package intermediate.functionalProgramming.student;
 import java.util.Objects;
 import java.util.Optional;
 
-/**
- * Created by Marcin Beda.
- */
 
 final public class Student implements Comparable<Student> {
 

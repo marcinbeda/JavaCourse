@@ -1,8 +1,5 @@
 package basicsPartOne.controlExpressions;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ReturnKeyword {
     public static void main(String[] args) {

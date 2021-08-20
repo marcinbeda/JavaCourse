@@ -6,9 +6,6 @@ import intermediate.functionalProgramming.student.Student;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class PrimitiveTypesStreams {
 
@@ -27,6 +24,6 @@ public class PrimitiveTypesStreams {
         Student mark = new Student("Mark", 29, "678901");
         Student martha = new Student("Martha", 29, "678901");
 
-        return Stream.of(pawel,john,billy,billy2, mark, martha);
+        return Stream.of(pawel, john, billy, billy2, mark, martha);
     }
 }

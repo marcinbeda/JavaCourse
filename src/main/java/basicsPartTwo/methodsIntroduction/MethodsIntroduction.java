@@ -1,8 +1,5 @@
 package basicsPartTwo.methodsIntroduction;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class MethodsIntroduction {
 

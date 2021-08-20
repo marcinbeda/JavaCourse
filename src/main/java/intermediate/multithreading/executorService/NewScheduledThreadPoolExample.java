@@ -4,9 +4,6 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class NewScheduledThreadPoolExample {
 
@@ -46,7 +43,7 @@ public class NewScheduledThreadPoolExample {
             }
         };
 
-        executor.scheduleAtFixedRate(worker3,2,6,TimeUnit.SECONDS);
+        executor.scheduleAtFixedRate(worker3, 2, 6, TimeUnit.SECONDS);
 
 //        executor.shutdown();
     }

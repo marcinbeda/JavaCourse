@@ -2,9 +2,6 @@ package concurrency.multithreadedCollections.exchanger;
 
 import java.util.concurrent.Exchanger;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class BlacksmithRunnable implements Runnable {
 

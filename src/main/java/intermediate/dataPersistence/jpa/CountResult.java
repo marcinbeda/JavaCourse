@@ -1,8 +1,5 @@
 package intermediate.dataPersistence.jpa;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class CountResult {
 

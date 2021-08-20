@@ -3,9 +3,6 @@ package basicsPartTwo.guessTheNumberGame;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class GuessTheNumberGame {
 

@@ -1,8 +1,5 @@
 package concurrency.threadsOperations.synchornizedExample;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class SynchronizedRunnable implements Runnable {
 

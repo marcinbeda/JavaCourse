@@ -1,8 +1,5 @@
 package basicsPartTwo.inheritanceConstructors;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Cat extends Animal {
     public Cat(String name, int age, String color) {

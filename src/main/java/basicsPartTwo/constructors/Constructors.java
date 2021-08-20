@@ -1,8 +1,5 @@
 package basicsPartTwo.constructors;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Constructors {
 

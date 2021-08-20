@@ -1,8 +1,5 @@
 package basicsPartOne.primitiveDataTypesAndVariables;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class PrimitiveTypes {
 
@@ -16,7 +13,7 @@ public class PrimitiveTypes {
 
         // Odliczaj od 0 do 10^9 i dodawaj do siebie odliczane wartosci.
         long sum = 0L;
-        for(long i = 0; i <= 1000000000; i++) {
+        for (long i = 0; i <= 1000000000; i++) {
             sum += i;
         }
         System.out.println("Suma wynosi: " + sum);

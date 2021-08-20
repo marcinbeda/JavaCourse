@@ -1,8 +1,5 @@
 package basicsPartTwo.inheritance;
 
-/**
- * Created by Marcin Beda.
- */
 
 final public class Cat extends Animal {
     String color;

@@ -2,9 +2,6 @@ package concurrency.multithreadedCollections.concurrentHashMap;
 
 import java.util.concurrent.ConcurrentMap;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class AddingItemsRunnable implements Runnable {
 

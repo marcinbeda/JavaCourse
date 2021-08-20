@@ -1,8 +1,5 @@
 package concurrency.threadsOperations.executorService;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ExecutorServiceTask implements Runnable {
 

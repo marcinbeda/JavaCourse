@@ -2,9 +2,6 @@ package basicsPartOne.otherTopics;
 
 import java.util.Scanner;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class DataInput {
     public static void main(String[] args) {

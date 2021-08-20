@@ -2,9 +2,6 @@ package unitTest.electricity;
 
 import org.junit.*;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class NewElectricityMeterTest {
 
@@ -23,7 +20,7 @@ public class NewElectricityMeterTest {
     }
 
     @AfterClass
-    public static void release(){
+    public static void release() {
         // Release connections/files etc.
     }
 

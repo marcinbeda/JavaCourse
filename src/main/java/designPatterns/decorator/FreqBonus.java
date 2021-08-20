@@ -1,10 +1,7 @@
 package designPatterns.decorator;
 
-/**
- * Created by Marcin Beda.
- */
 
-public class FreqBonus extends Bonus{
+public class FreqBonus extends Bonus {
 
     public FreqBonus(Payable payable) {
         super(payable);

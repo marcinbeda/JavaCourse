@@ -1,8 +1,5 @@
 package basicsPartTwo.inheritanceAbstractClass;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Cat extends Animal {
 

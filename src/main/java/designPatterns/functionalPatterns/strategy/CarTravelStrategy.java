@@ -1,8 +1,5 @@
 package designPatterns.functionalPatterns.strategy;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class CarTravelStrategy implements TravelStrategy {
 

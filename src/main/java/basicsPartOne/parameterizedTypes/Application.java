@@ -2,9 +2,6 @@ package basicsPartOne.parameterizedTypes;
 
 import java.util.ArrayList;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Application {
     public static void main(String[] args) {
@@ -27,7 +24,7 @@ public class Application {
         arrayList_2.add("Dwa");
         arrayList_2.add("Trzy");
 
-        for (String str: arrayList_2) {
+        for (String str : arrayList_2) {
             System.out.println(str);
         }
     }

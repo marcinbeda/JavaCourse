@@ -1,8 +1,5 @@
 package concurrency.multithreadingProblems.deadlock;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Builder {
 

@@ -1,8 +1,5 @@
 package basicsPartTwo.switchStatment;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class SwitchStatment {
 
@@ -27,7 +24,7 @@ public class SwitchStatment {
                 System.out.println("Inny dzień");
                 break;
         }
-        
+
         String namedDay = "Niedziela";
 
         switch (namedDay) {

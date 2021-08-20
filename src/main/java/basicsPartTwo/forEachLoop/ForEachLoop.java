@@ -1,13 +1,10 @@
 package basicsPartTwo.forEachLoop;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ForEachLoop {
 
     public static void main(String[] args) {
-	    String[] colors = {"red", "green", "blue", "black", "white"};
+        String[] colors = {"red", "green", "blue", "black", "white"};
 
         System.out.println("For:");
         for (int i = 0; i < colors.length; i++) {

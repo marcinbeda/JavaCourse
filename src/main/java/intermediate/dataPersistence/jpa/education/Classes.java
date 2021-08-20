@@ -4,9 +4,6 @@ import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Created by Marcin Beda.
- */
 
 @Entity
 public class Classes {
@@ -25,7 +22,8 @@ public class Classes {
         this.name = name;
     }
 
-    public Classes() {}
+    public Classes() {
+    }
 
     public void addStudent(Student student) {
         students.add(student);

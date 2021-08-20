@@ -2,9 +2,6 @@ package concurrency.threadsOperations.semaphoreExample;
 
 import java.util.concurrent.Semaphore;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Dungeon {
 

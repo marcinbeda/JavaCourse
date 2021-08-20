@@ -1,8 +1,5 @@
 package basicsPartOne.otherTopics;
 
-/**
- * Created by Marcin Beda.
- */
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -18,7 +15,7 @@ public class CollectionsFramework {
 
         arrayList.add(0, 10);
 
-        for (int i: arrayList) {
+        for (int i : arrayList) {
             System.out.println(i);
         }
 
@@ -38,7 +35,7 @@ public class CollectionsFramework {
 
         Collections.shuffle(mapList);
 
-        for (String s: mapList) {
+        for (String s : mapList) {
             System.out.println(s);
         }
 

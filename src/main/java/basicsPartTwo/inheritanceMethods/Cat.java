@@ -1,8 +1,5 @@
 package basicsPartTwo.inheritanceMethods;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Cat extends Animal {
     public Cat(String name) {

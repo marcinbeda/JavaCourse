@@ -5,9 +5,6 @@ import unitTest.electricity.TwoElectricityMetersTest;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
-/**
- * Created by Marcin Beda.
- */
 
 @RunWith(Suite.class)
 

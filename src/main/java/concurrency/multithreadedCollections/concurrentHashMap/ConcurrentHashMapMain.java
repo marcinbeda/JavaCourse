@@ -8,9 +8,6 @@ import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ConcurrentHashMapMain {
 

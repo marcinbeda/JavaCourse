@@ -1,27 +1,24 @@
 package basicsPartTwo.dataTypes;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class DataTypes {
 
     public static void main(String[] args) {
-        /* LICZBOWE - CAŁKOWITE */
+        // LICZBOWE - CAŁKOWITE
         byte zmByte = Byte.MAX_VALUE;
         short zmShort = Short.MAX_VALUE;
         int zmInt = Integer.MAX_VALUE;
         long zmLong = Long.MAX_VALUE;
         zmLong = 2356789L;
 
-        /* LICZBOWE - ZMIENNOPRZECINKOWE */
+        // LICZBOWE - ZMIENNOPRZECINKOWE
         float zmFloat = 25.525F;
         double zmDouble = 50.782D;
 
-        /* LOGICZNE */
+        // LOGICZNE
         boolean zmBool = false;
 
-        /* ZNAKOWE */
+        // ZNAKOWE
         char zmChar = 'A';
 
         String zmString = "Tekst";

@@ -1,9 +1,5 @@
 package concurrency.multithreadingProblems.starvation;
 
-/**
- * Created by Marcin Beda.
- */
-
 
 public class StarvationRunnable implements Runnable {
 

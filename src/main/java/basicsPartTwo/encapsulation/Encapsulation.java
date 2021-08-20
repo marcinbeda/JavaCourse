@@ -1,8 +1,5 @@
 package basicsPartTwo.encapsulation;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Encapsulation {
 

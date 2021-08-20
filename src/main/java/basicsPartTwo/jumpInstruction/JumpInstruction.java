@@ -1,8 +1,5 @@
 package basicsPartTwo.jumpInstruction;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class JumpInstruction {
 

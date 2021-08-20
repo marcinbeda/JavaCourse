@@ -3,9 +3,6 @@ package basicsPartOne.otherTopics;
 import java.io.*;
 import java.util.Scanner;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class FileOperations {
 

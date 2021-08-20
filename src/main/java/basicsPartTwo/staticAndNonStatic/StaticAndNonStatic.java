@@ -1,8 +1,5 @@
 package basicsPartTwo.staticAndNonStatic;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class StaticAndNonStatic {
 

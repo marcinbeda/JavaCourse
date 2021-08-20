@@ -1,8 +1,5 @@
 package intermediate.dataPersistence.jdbc;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Student {
 

@@ -2,9 +2,6 @@ package unitTest.electricity;
 
 import org.junit.*;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class ExistElectricityMeterTest {
 
@@ -23,12 +20,12 @@ public class ExistElectricityMeterTest {
     }
 
     @AfterClass
-    public static void release(){
+    public static void release() {
         //release connections/files etc.
     }
 
     @After
-    public void tearDown(){
+    public void tearDown() {
         electricityMeter.reset();
     }
 
@@ -71,7 +68,7 @@ public class ExistElectricityMeterTest {
     @Test
     public void givenNewMeterWhenFirstAdditionThenProperCounter() {
         //Given/Arrange
-        
+
         //When/Act
         electricityMeter.addKwh(1);
         //Then/Assert

@@ -1,8 +1,5 @@
 package basicsPartTwo.multiplicationTable;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class MultiplicationTable {
 

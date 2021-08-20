@@ -2,9 +2,6 @@ package basicsPartOne.basicsJava;
 
 import basicsPartOne.myFirstPackage.MyFirstClass;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class SampleClass {
 

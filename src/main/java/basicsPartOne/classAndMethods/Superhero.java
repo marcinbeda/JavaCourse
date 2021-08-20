@@ -1,8 +1,5 @@
 package basicsPartOne.classAndMethods;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Superhero {
 
@@ -11,7 +8,8 @@ public class Superhero {
     private int dexterity;
     private int endurance;
 
-    public Superhero() {}
+    public Superhero() {
+    }
 
     public Superhero(int healthPoints, int strength, int dexterity, int endurance) {
         this.healthPoints = healthPoints;

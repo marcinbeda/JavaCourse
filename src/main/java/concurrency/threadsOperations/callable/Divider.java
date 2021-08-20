@@ -2,9 +2,6 @@ package concurrency.threadsOperations.callable;
 
 import java.util.concurrent.Callable;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class Divider implements Callable<Double> {
 

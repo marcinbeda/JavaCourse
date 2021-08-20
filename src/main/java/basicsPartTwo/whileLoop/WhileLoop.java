@@ -1,8 +1,5 @@
 package basicsPartTwo.whileLoop;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class WhileLoop {
 

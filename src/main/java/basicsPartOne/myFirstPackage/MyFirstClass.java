@@ -1,8 +1,5 @@
 package basicsPartOne.myFirstPackage;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class MyFirstClass {
 

@@ -2,9 +2,6 @@ package concurrency.multithreadingProblems.starvation;
 
 import java.util.Random;
 
-/**
- * Created by Marcin Beda.
- */
 
 public class StarvationMain {
 

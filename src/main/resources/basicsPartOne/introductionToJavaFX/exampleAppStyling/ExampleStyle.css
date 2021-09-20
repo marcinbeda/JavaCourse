@@ -1,0 +1,25 @@
+.button {
+    -fx-base: #7DFF88;
+    -fx-font: 16 consolas;
+    -fx-padding: 20px;
+}
+
+#button_2:hover {
+    -fx-base: green;
+}
+
+.text-field {
+    -fx-base: #FF9D00;
+    -fx-font: 16 consolas;
+    -fx-padding: 20px;
+ }
+
+.check-box {
+    -fx-base: #FF7878;
+    -fx-font: 16 consolas;
+    -fx-padding: 20px;
+}
+
+.grid-pane {
+    -fx-base: #9ECDFF;
+}
